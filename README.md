@@ -1,5 +1,5 @@
 # Module 1: Introduction to DevOps
-![](https://cdn.educba.com/academy/wp-content/uploads/2020/02/nested-loop-in-c.jpg)
+![](https://www.adimeo.com/hubfs/schema-devops.png)
 
 ## Learning Objectives
 ### General
